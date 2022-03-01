@@ -693,10 +693,10 @@ L，T，X，屋顶型矩阵（质量屋）
 详细职责用文本型来描述  
 
 RAM（责任分配矩阵）矩阵 图，每个任务只能有一个A  
-- A 负责  
-- R 执行  
-- C 咨询  
-- I 知情  
+- R 负责 responsible
+- A 执行 accountable
+- C 咨询 consulted
+- I 知情 informed
 
 RACI矩阵是RAM的一种表现形式  
 
